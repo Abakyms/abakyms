@@ -9,9 +9,9 @@
 •᠌ ᠌RAM: G-Skill Aegis 16GB 2999Mhz DDR4 Kit (2x8GB) <br/>
 •᠌ ᠌GPU: Radeon RX590 OC+ FatBoy <br/>
 •᠌ ᠌OS: Windows 10 x64 <br/>
-•᠌ ᠌SSD: Sumsung 500GB (Games) <br/>
-•᠌ M2: Sumsung 970 EVO PLUS 1TB (System/Games) <br/>
-•᠌ ᠌HDD: Seagate BarraCuda 1TB (Media) <br/>
+•᠌ ᠌SSD: Sumsung 500GB (Media/Tools) <br/>
+•᠌ M2: Sumsung 970 EVO PLUS 1TB (System/Games/Work tools) <br/>
+•᠌ ᠌HDD: Seagate BarraCuda 1TB (Media/Films) <br/>
 •᠌ Chassi: Zalman I3 <br/>
 
 ### Languages and Tools 🛠️
