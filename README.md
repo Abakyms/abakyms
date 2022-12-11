@@ -4,14 +4,14 @@
 
 ### PC Build 💻
 
-•᠌ MB: MSI B450M Gaming Plus
-•᠌ ᠌CPU: AMD Ryzen 5 2600X
-•᠌ ᠌RAM: G-Skill Aegis 16GB 2999Mhz DDR4 Kit (2x8GB)
-•᠌ ᠌GPU: Radeon RX590 OC+ FatBoy
-•᠌ ᠌OS: Windows 10 x64
-•᠌ ᠌SSD: Sumsung 500GB (Games)
-•᠌ M2: Sumsung 970 EVO PLUS 1TB (System/Games)
-•᠌ ᠌HDD: Seagate BarraCuda 1TB (Media)
+•᠌ MB: MSI B450M Gaming Plus  
+•᠌ ᠌CPU: AMD Ryzen 5 2600X  
+•᠌ ᠌RAM: G-Skill Aegis 16GB 2999Mhz DDR4 Kit (2x8GB)  
+•᠌ ᠌GPU: Radeon RX590 OC+ FatBoy  
+•᠌ ᠌OS: Windows 10 x64  
+•᠌ ᠌SSD: Sumsung 500GB (Games)  
+•᠌ M2: Sumsung 970 EVO PLUS 1TB (System/Games)  
+•᠌ ᠌HDD: Seagate BarraCuda 1TB (Media)  
 •᠌ Chassi: Zalman I3
 
 ### Languages and Tools 🛠️
