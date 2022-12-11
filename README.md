@@ -38,6 +38,6 @@
 
 <h3> <font color="c3d21e">🔎 Some statistics 🔎</font></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abakyms&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/abakyms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abakyms&layout=compact&langs_count=6&card_width=400&border_color=ffffff&border_radius=6&theme=codeSTACKr)](https://github.com/abakyms/github-readme-stats)
 
 </div>
