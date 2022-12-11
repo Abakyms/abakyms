@@ -36,4 +36,4 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abakyms&show_icons=true&layout=compact&theme=highcontrast)](https://github.com/abakyms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abakyms&layout=compact&theme=radical)](https://github.com/abakyms/github-readme-stats)
