@@ -33,3 +33,7 @@
 [![Github](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)](https://github.com/Abakyms)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/abakyms)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)]()
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abakyms&layout=compact)](https://github.com/abakyms/github-readme-stats)
