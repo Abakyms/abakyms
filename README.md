@@ -1,7 +1,7 @@
 [![Header](https://github.com/Abakyms/abakyms/blob/main/assets/banner.jpg)](https://github.com/Abakyms)
 
 <div align="center">
-<h1>Hi 👋 I'm a beginner Frontend Web Developer !</h1>
+<h1>Hi 👋 I'm a beginner Frontend Developer !</h1>
 <h3><font color="00b0f6">💻 PC Build 💻</font></h3>
  •᠌ MB: MSI B450M Gaming Plus <br/>
  •᠌ ᠌CPU: AMD Ryzen 5 2600X <br/>
